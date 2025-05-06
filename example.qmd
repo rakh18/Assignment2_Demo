@@ -1,0 +1,6 @@
+---
+title: "Demo for GIT Written Guide"
+author: "Akbar Rakha Syahpradana"
+format: html
+editor: visual
+---
